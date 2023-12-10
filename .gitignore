@@ -1,0 +1,5 @@
+__pycache__
+shortner_app_env
+.DS_Store
+.vscode
+.env
